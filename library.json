@@ -10,13 +10,7 @@
   "url": "https://easybtn.earias.me",
   "frameworks": "arduino",
   "platforms": "espressif8266, espressif32",
-  "dependencies": [
-    {
-      "owner": "megunolink",
-      "name": "MegunoLink",
-      "version": "^1.33"
-    }
-  ],
+  "dependencies": [],
   "authors": [
     {
       "name": "Evert Arias",
